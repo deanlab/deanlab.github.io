@@ -27,6 +27,7 @@ url: "https://deanlab.com" # the base hostname & protocol for your site, e.g. ht
 # twitter_username: jekyllrb
 github_username: deanlab
 cloudinary_id: codegaucho
+google_scholar: z3z-PV8AAAAJ
 
 # Build settings
 theme: minima
