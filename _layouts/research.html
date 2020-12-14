@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% if page.imageid %}
+  {% capture imageurl %}http://res.cloudinary.com/{{site.cloudinary_id}}/image/upload/{{page.image_options}}/{{page.imageid}}{% endcapture %}
+{% elsif page.imageurl %}
+  {% capture imageurl %}{{page.imageurl}}{% endcapture %}
+{% endif %}
+
+<ol class="container breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research/">Research</a></li>
+  <li class="active">{{ page.title }}</li>
+</ol>
+
+<article style="clear: both;">
+  <h1>{{ page.title }}</h1>
+  <img src="{{ imageurl }}" style="margin: 15px; float: right;" />
+  <div>    
+    {{content }}
+  </div>
+
+  <footer class="text-right" style="clear: both;">
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <div class="addthis_sharing_toolbox"></div>
+  </footer>
+</article>
