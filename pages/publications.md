@@ -10,6 +10,7 @@ Also check out our publications in [Google Scholar](https://scholar.google.com/c
 
 **Excitonic Phase Transitions in MoSe2/WSe2 Heterobilayers**
 Jue Wang, Qianhui Shi, En-Min Shih, Lin Zhou, Wenjing Wu, Yusong Bai, Daniel A. Rhodes, Katayun Barmak, James Hone, Cory R. Dean, X.-Y. Zhu
+<br/>
 _arXiv:2001.03812_
 (2020)
 [httpss://arxiv.org/abs/2001.03812](httpss://arxiv.org/abs/2001.03812)
