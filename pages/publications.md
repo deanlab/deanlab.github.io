@@ -1,35 +1,35 @@
 ---
-layout: page 
-title: Publications 
-permalink: /publications  
+layout: page
+title: Publications
+permalink: /publications
 ---
-
-
 
 ## 2020
+
 ---
+
 **Excitonic Phase Transitions in MoSe2/WSe2 Heterobilayers**\
 Jue Wang, Qianhui Shi, En-Min Shih, Lin Zhou, Wenjing Wu, Yusong Bai, Daniel A. Rhodes, Katayun Barmak, James Hone, Cory R. Dean, X.-Y. Zhu\
 _arXiv:2001.03812_\
 (2020)\
-[httpss://arxiv.org/abs/2001.03812](httpss://arxiv.org/abs/2001.03812)
+[https://arxiv.org/abs/2001.03812](https://arxiv.org/abs/2001.03812)
 
 **Anisotropic band flattening in graphene with 1D superlattices**\
 Yutao Li, Scott Dietrich, Carlos Forsythe, Takashi Taniguchi, Kenji Watanabe, Pilkyung Moon, Cory R. Dean\
 (2020)\
-[httpss://arxiv.org/abs/2006.08868](httpss://arxiv.org/abs/2006.08868)
+[https://arxiv.org/abs/2006.08868](https://arxiv.org/abs/2006.08868)
 
 **Electrically tunable correlated and topological states in twisted monolayer-bilayer graphene**\
 Shaowen Chen, Minhao He, Ya-Hui Zhang, Valerie Hsieh, Zaiyao Fei, K. Watanabe, T. Taniguchi, David H. Cobden, Xiaodong Xu, Cory R. Dean, Matthew Yankowitz\
 _arXiv:2004.11340_\
 (2020)\
-[httpss://arxiv.org/abs/2004.11340](httpss://arxiv.org/abs/2004.11340)
+[https://arxiv.org/abs/2004.11340](https://arxiv.org/abs/2004.11340)
 
 **Nonlinear twistoptics at symmetry-broken interfaces**\
 Kaiyuan Yao, Nathan R. Finney, Jin Zhang, Samuel L. Moore, Lede Xian, Nicolas Tancogne-Dejean, Fang Liu, Jenny Ardelean, Xinyi Xu, Dorri Halbertal, K. Watanabe, T. Taniguchi, Hector Ochoa, Ana Asenjo-Garcia, Xiaoyang Zhu, D. N. Basov, Angel Rubio, Cory R. Dean, James Hone, P. James Schuck\
 _arXiv:2006.13802_\
 (2020)\
-[httpss://arxiv.org/abs/2006.13802](httpss://arxiv.org/abs/2006.13802)
+[https://arxiv.org/abs/2006.13802](https://arxiv.org/abs/2006.13802)
 
 **Superconductivity and strong correlations in moiré flat bands**\
 Leon Balents, Cory R. Dean, Dmitri K. Efetov & Andrea F. Young\
@@ -42,14 +42,14 @@ Qianhui Shi, En-Min Shih, Martin V. Gustafsson, Daniel A. Rhodes, Bumho Kim, Ken
 _Nature Nanotechnology_\
 volume: 15, page: 569–573\
 (2020)\
-[10.5518/807.](httpss://arxiv.org/abs/1911.04428)
+[10.5518/807.](https://arxiv.org/abs/1911.04428)
 
 **Correlated electronic phases in twisted bilayer transition metal dichalcogenides**\
 Lei Wang, En-Min Shih, Augusto Ghiotto, Lede Xian, Daniel A. Rhodes, Cheng Tan, Martin Claassen, Dante M. Kennes, Yusong Bai, Bumho Kim, Kenji Watanabe, Takashi Taniguchi, Xiaoyang Zhu, James Hone, Angel Rubio, Abhay Pasupathy, Cory R. Dean\
 _Nature Materials_\
 volume: 19, page: 861–866\
 (2020)\
-[10.1038/s41563-020-0708-6](httpss://arxiv.org/abs/1910.12147)
+[10.1038/s41563-020-0708-6](https://arxiv.org/abs/1910.12147)
 
 **Doping-induced superconductivity in the van der Waals superatomic crystal Re6Se8Cl2**\
 Evan J. Telford, Jake C. Russell, Joshua R. Swann, Brandon Fowler, Xiaoman Wang, Kihong Lee, Amirali Zangiabadi, Kenji Watanabe, Takashi Taniguchi, Colin Nuckolls, Patrick Batail, Xiaoyang Zhu, Jonathan A. Malen, Cory R. Dean, Xavier Roy\
@@ -63,19 +63,18 @@ Evan J. Telford, Avalon H. Dismukes, Kihong Lee, Minghao Cheng, Andrew Wieteska,
 _Adv. Mater._\
 volume: 32, issue: 37, page: 2003240\
 (2020)\
-[10.1002/adma.202003240](httpss://onlinelibrary.wiley.com/doi/full/10.1002/adma.202003240)
+[10.1002/adma.202003240](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202003240)
 
 **Edge Channels of Broken-Symmetry Quantum Hall States in Graphene probed by Atomic Force Microscopy**\
 Sungmin Kim, Johannes Schwenk, Daniel Walkup, Yihang Zeng, Fereshte Ghahari, Son T. Le, Marlou R. Slot, Julian Berwanger, Steven R. Blankenship, Kenji Watanabe, Takashi Taniguchi, Franz J. Giessibl, Nikolai B. Zhitenev, Cory R. Dean, Joseph A. Stroscio\
 _arXiv:2006.10730_\
 (2020)\
-[httpss://arxiv.org/abs/2006.10730](httpss://arxiv.org/abs/2006.10730)
-
-
-
+[https://arxiv.org/abs/2006.10730](https://arxiv.org/abs/2006.10730)
 
 ## 2019
+
 ---
+
 **Sensitivity of the Superconducting State in Thin Films**\
 I. Tamir, A. Benyamini, E. J. Telford, F. Gorniaczyk, A. Doron, T. Levinson, D. Wang, F. Gay, B. Sacépé, J. Hone, K. Watanabe, T. Taniguchi, C. R. Dean, A. N. Pasupathy, D. Shahar\
 _Science Advances_\
@@ -109,7 +108,7 @@ Matthew Yankowitz, Shaowen Chen, Hryhoriy Polshyn, K. Watanabe, T. Taniguchi, Da
 _Science_\
 volume: 363, issue: 6431, page: 1059-1064\
 (2019)\
-[10.1126/science.aav1910](httpss://arxiv.org/abs/1808.07865)
+[10.1126/science.aav1910](https://arxiv.org/abs/1808.07865)
 
 **High quality electrostatically defined hall bars in monolayer graphene**\
 Rebeca Ribeiro-Palau, Shaowen Chen, Yihang Zeng, Kenji Watanabe, Takashi Taniguchi, James Hone, Cory R. Dean\
@@ -137,7 +136,7 @@ Cheng Tan, Derek Y. H. Ho, Lei Wang, J.I.A. Li, Indra Yudhistira, Daniel A. Rhod
 _arXiv:1908.10921_\
 page: undefined\
 (2019)\
-[httpss://arxiv.org/abs/1908.10921](httpss://arxiv.org/abs/1908.10921)
+[https://arxiv.org/abs/1908.10921](https://arxiv.org/abs/1908.10921)
 
 **Large linear-in-temperature resistivity in twisted bilayer graphene**\
 H. Polshyn, M. Yankowitz, S. Chen, Y. Zhang, K. Watanabe, T. Taniguchi, C. R. Dean, A. F. Young\
@@ -158,13 +157,13 @@ L. Xiong, C. Forsythe, M. Jung, A. S. McLeod, S. S. Sunku, Y. M. Shao, G. X. Ni,
 _Nature Comm._\
 volume: 10, page: 4780\
 (2019)\
-[10.1038/s41467-019-12778-2](httpss://www.nature.com/articles/s41467-019-12778-2)
+[10.1038/s41467-019-12778-2](https://www.nature.com/articles/s41467-019-12778-2)
 
 **Enhanced Superconductivity in Monolayer Td-MoTe2 with Tilted Ising Spin Texture**\
 Daniel Rhodes, Noah F. Yuan, Younghun Jung, Abhinandan Antony, Hua Wang, Bumho Kim, Yu-che Chiu, Takashi Taniguchi, Kenji Watanabe, Katayun Barmak, Luis Balicas, Cory R. Dean, Xiaofeng Qian, Liang Fu, Abhay N. Pasupathy, James Hone\
 _arXiv:1905.06508_\
 (2019)\
-[httpss://arxiv.org/abs/1905.06508](httpss://arxiv.org/abs/1905.06508)
+[https://arxiv.org/abs/1905.06508](https://arxiv.org/abs/1905.06508)
 
 **Switching 2D Magnetic States via Pressure Tuning of Layer Stacking**\
 Tiancheng Song, Zaiyao Fei, Matthew Yankowitz, Zhong Lin, Qianni Jiang, Kyle Hwangbo, Qi Zhang, Bosong Sun, Takashi Taniguchi, Kenji Watanabe, Michael A. McGuire, David Graf, Ting Cao, Jiun-Haw Chu, David H. Cobden, Cory R. Dean, Di Xiao, Xiaodong Xu\
@@ -177,13 +176,12 @@ volume: 18, page: 1298–1302\
 Avishai Benyamini, Dante M. Kennes, Evan Telford, Kenji Watanabe, Takashi Taniguchi, Andrew Millis, James Hone, Cory R. Dean, Abhay Pasupathy\
 _arXiv:1909.08469_\
 (2019)\
-[httpss://arxiv.org/abs/1909.08469](httpss://arxiv.org/abs/1909.08469)
-
-
-
+[https://arxiv.org/abs/1909.08469](https://arxiv.org/abs/1909.08469)
 
 ## 2018
+
 ---
+
 **Twistable electronics with dynamically rotatable heterostructures**\
 Rebeca Ribeiro-Palau, Changjian Zhang, Kenji Watanabe, Takashi Taniguchi, James Hone, Cory R. Dean\
 _Science_\
@@ -226,17 +224,16 @@ volume: 121, page: 167601\
 (2018)\
 [10.1103/PhysRevLett.121.167601](https://dx.doi.org/10.1103/PhysRevLett.121.167601)
 
-
-
-
 ## 2017
+
 ---
+
 **Frictional magneto-Coulomb drag in graphene double-layer heterostructure**\
 Xiaomeng Liu, Lei Wang, Kin Chung Fong, Yuanda Gao, Patrick Maher, Kenji Watanabe, Takashi Taniguchi, James Hone, Cory Dean, Philip Kim\
 _Phys. Rev. Lett._\
 volume: 119, page: 056802\
 (2017)\
-[10.1103/PhysRevLett.119.056802](httpss://arxiv.org/abs/1612.08308)
+[10.1103/PhysRevLett.119.056802](https://arxiv.org/abs/1612.08308)
 
 **Direct measurement of discrete valley and orbital quantum numbers in bilayer graphene**\
 B.M. Hunt, J.I.A. Li, A.A. Zibrov, L. Wang, T. Taniguchi, K. Watanabe, J. Hone, C. R. Dean, M. Zaletel, R.C. Ashoori, A.F. Young\
@@ -273,11 +270,10 @@ volume: 13, page: 751–755\
 (2017)\
 [10.1038/nphys4140](https://dx.doi.org/10.1038/nphys4140)
 
-
-
-
 ## 2016
+
 ---
+
 **Negative Coulomb Drag in Double Bilayer Graphene**\
 J.I.A. Li; T. Taniguchi; K. Watanabe; J. Hone; A. Levchenko; C.R. Dean\
 _Phys. Rev. Lett._\
@@ -300,14 +296,14 @@ page: undefined\
 [10.1021/acs.nanolett.6b01657](https://dx.doi.org/10.1021/acs.nanolett.6b01657)
 
 **Quantifying electronic band interactions in van der Waals materials using angle-resolved reflected-electron spectroscopy**\
-Johannes Jobst; Alexander J. H. van der Torren; Eugene E. Krasovskii; Jesse Balgley; Cory R. Dean; Rudolf M. Tromp;  Sense Jan van der Molen\
+Johannes Jobst; Alexander J. H. van der Torren; Eugene E. Krasovskii; Jesse Balgley; Cory R. Dean; Rudolf M. Tromp; Sense Jan van der Molen\
 _Nature Comm._\
 volume: 7, issue: 13621\
 (2016)\
 [10.1038/ncomms13621](https://dx.doi.org/10.1038/ncomms13621)
 
 **Multiple hot-carrier collection in photo-excited graphene Moiré superlattices**\
-Sanfeng Wu;  Lei Wang; You Lai; Wen-Yu Shan; Grant Aivazian; Xian Zhang; Takashi Taniguchi; Kenji Watanabe; Di Xiao; Cory Dean; James Hone; Zhiqiang Li; Xiaodong Xu\
+Sanfeng Wu; Lei Wang; You Lai; Wen-Yu Shan; Grant Aivazian; Xian Zhang; Takashi Taniguchi; Kenji Watanabe; Di Xiao; Cory Dean; James Hone; Zhiqiang Li; Xiaodong Xu\
 _Sci. Adv._\
 volume: 2, issue: 5, page: undefined\
 (2016)\
@@ -320,11 +316,10 @@ volume: 117, page: undefined\
 (2016)\
 [10.1103/PhysRevLett.117.186601](https://arxiv.org/abs/1511.01541)
 
-
-
-
 ## 2015
+
 ---
+
 **Specular Interband Andreev Reflections in Graphene**\
 D. K. Efetov, L. Wang, C. Handschin, K. B. Efetov, J. Shuang, R. Cava, T. Taniguchi, K. Watanabe, J. Hone, C. R. Dean, P. Kim\
 _Nature Physics_\
@@ -343,7 +338,7 @@ Lei Wang, Yuanda Gao, Bo Wen, Zheng Han, Takashi Taniguchi, Kenji Watanabe, Miki
 _Science_\
 volume: 350, issue: 6365, page: 1231-1234\
 (2015)\
-[10.1126/science.aad2102](httpss://www.sciencemag.org/content/350/6265/1231.full)
+[10.1126/science.aad2102](https://www.sciencemag.org/content/350/6265/1231.full)
 
 **Nature of the quantum metal in a two-dimensional crystalline superconductor**\
 A. W. Tsen, B. Hunt, Y. D. Kim, Z. J. Yuan, S. Jia, R. J. Cava, J. Hone, P. Kim, C. R. Dean, A. N. Pasupathy\
@@ -351,11 +346,10 @@ _Nature Physics_\
 (2015)\
 [10.1038/nphys3579](https://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3579.html)
 
-
-
-
 ## 2014
+
 ---
+
 **Tunable Fractional Quantum Hall Phases in Bilayer Graphene**\
 Patrick Maher; Lei Wang; Yuanda Gao; Carlos Forsythe; Takashi Taniguchi; Kenji Watanabe; Dmitry Abanin; Zlatko Papić; Paul Cadden-Zimansky; James Hone; Philip Kim; Cory R. Dean\
 _Science _\
@@ -370,11 +364,10 @@ volume: 8, issue: 3\
 (2014)\
 [10.1021/nn500265f](https://dx.doi.org/10.1021/nn500265f)
 
-
-
-
 ## 2013
+
 ---
+
 **Probing Symmetry Properties of Few-Layer MoS2 and h-BN by Optical Second-Harmonic Generation**\
 Li, Yilei; Rao, Yi; Mak, Kin; You, Yumeng; Wang, Shuyuan; Dean, Cory; Heinz, Tony F; \
 _Nano letters_\
@@ -408,18 +401,17 @@ _Nano letters_\
 (2013)\
 [10.1021/nl4012529](https://dx.doi.org/10.1021/nl4012529)
 
-**One-dimensional electrical contact to a two-dimensional  material**\
-Lei Wang; Inanc Meric; Pinshane Y. Huang;  Qun Gao; Yuanda Gao; Helen Tran;  Takashi Taniguchi; Kenji Watanabe; Luis M. Campos; David A. Muller; Jun Guo,; Philip Kim; James Hone; Kenneth L. Shepard; Cory R. Dean\
+**One-dimensional electrical contact to a two-dimensional material**\
+Lei Wang; Inanc Meric; Pinshane Y. Huang; Qun Gao; Yuanda Gao; Helen Tran; Takashi Taniguchi; Kenji Watanabe; Luis M. Campos; David A. Muller; Jun Guo,; Philip Kim; James Hone; Kenneth L. Shepard; Cory R. Dean\
 _Science _\
 volume: 342, page: 614-617\
 (2013)\
 [10.1126/science.1244358](https://dx.doi.org/10.1126/science.1244358)
 
-
-
-
 ## 2012
+
 ---
+
 **Negligible Environmental Sensitivity of Graphene in a Hexagonal Boron Nitride/Graphene/h-BN Sandwich Structure**\
 Wang, Lei; Chen, Zheyuan; Dean, Cory; Taniguchi, Takashi; Watanabe, Kenji; Brus, Louis; Hone, James; \
 _ACS nano_\
@@ -468,11 +460,10 @@ volume: 12, issue: 6, page: 2751-2756\
 (2012)\
 [10.1021/nl204481s](https://hone.mech.columbia.edu/pdf/petrone-nanoletters.pdf)
 
-
-
-
 ## 2011
+
 ---
+
 **Electron tunneling through atomically flat and ultrathin hexagonal boron nitride**\
 Lee, Gwan-Hyoung; Yu, Young-Jun; Lee, Changgu; Dean, Cory; Shepard, Kenneth L; Kim, Philip; Hone, James; \
 _Applied Physics Letters_\
@@ -501,11 +492,10 @@ volume: 7, issue: 9, page: 693-696\
 (2011)\
 [10.1038/nphys2007](https://arxiv.org/pdf/1010.1179)
 
-
-
-
 ## 2010
+
 ---
+
 **Graphene field-effect transistors based on boron nitride gate dielectrics**\
 Meric, Inanc; Dean, Cory; Young, Andrea; Hone, Jim; Kim, Philip; Shepard, Kenneth L; \
 _Electron Devices Meeting (IEDM), 2010 IEEE International_\
@@ -520,11 +510,10 @@ volume: 5, issue: 10, page: 722-726\
 (2010)\
 [10.1038/nnano.2010.172](https://dx.doi.org/10.1038/nnano.2010.172)
 
-
-
-
 ## 2009
+
 ---
+
 **Distortion of the 2d Wigner Crystal Into a'QUASI-3D'Insulator**\
 Piot, BA; Dean, CR; Gervais, G; Jiang, Z; Engel, LW; Pfeiffer, LN; West, KW; \
 _International Journal of Modern Physics B_\
@@ -538,11 +527,10 @@ volume: 80, issue: 15\
 (2009)\
 [10.1103/PhysRevB.80.153301](https://link.aps.org/doi/10.1103/PhysRevB.80.153301)
 
-
-
-
 ## 2008
+
 ---
+
 **Intrinsic Gap of the ν= 5/2 Fractional Quantum Hall State**\
 Dean, CR; Piot, BA; Hayden, P; Das Sarma, S; Gervais, G; Pfeiffer, LN; West, KW; \
 _Physical review letters_\
@@ -578,11 +566,10 @@ volume: 101, issue: 18\
 (2008)\
 [10.1103/PhysRevLett.101.186806](https://link.aps.org/doi/10.1103/PhysRevLett.101.186806)
 
-
-
-
 ## 2007
+
 ---
+
 **Local control of light polarization with low-temperature fiber optics**\
 Mack, AH; Riordon, J; Dean, CR; Talbot, R; Gervais, G; \
 _Optics letters_\
@@ -597,22 +584,20 @@ volume: 22, issue: 9, page: 2522-2530\
 (2007)\
 [10.1557/jmr.2007.0312](https://dx.doi.org/10.1557/jmr.2007.0312)
 
-
-
-
 ## 2006
+
 ---
+
 **Optical viewport assembly for eye-safe monitoring of thin film deposition**\
 Robbie, Kevin; Buzea, Cristina; Landry, Olivier; Dean, Cory; \
 _Journal of Laser Applications_\
 volume: 18, page: 81\
 (2006)\
 
-
-
-
 ## 2005
+
 ---
+
 **Thickness and density evaluation for nanostructured thin films by glancing angle deposition**\
 Buzea, Cristina; Kaminska, Kate; Beydaghyan, Gisia; Brown, Tim; Elliott, Chelsea; Dean, Cory; Robbie, Kevin; \
 _Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures_\
@@ -624,15 +609,13 @@ volume: 23, issue: 6, page: 2545 - 2552 \
 Dean, Cory R; \
 (2005)\
 
-
-
-
 ## 2004
+
 ---
+
 **Ultrahigh vacuum glancing angle deposition system for thin films with controlled three-dimensional nanoscale structure**\
 Robbie, Kevin; Beydaghyan, Gisia; Brown, Tim; Dean, Cory; Adams, Jonathan; Buzea, Cristina; \
 _Review of scientific instruments_\
 volume: 75, issue: 4, page: 1089\
 (2004)\
 [10.1063/1.1667254](https://pdf.aminer.org/000/333/702/three_dimensional_square_spiral_photonic_crystal_nanostructures_by_glancing_angle.pdf)
-
