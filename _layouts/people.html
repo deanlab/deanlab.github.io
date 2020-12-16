@@ -3,14 +3,15 @@ layout: default
 ---
 
 {% if page.imageid %}
-{% capture imageurl %}http://res.cloudinary.com/{{site.cloudinary_id}}/image/upload/{{page.image_options}}/{{page.imageid}}{% endcapture %}
+{% capture imageurl
+%}http://res.cloudinary.com/{{site.cloudinary_id}}/image/upload/{{page.image_options}}/{{page.imageid}}{% endcapture %}
 {% elsif page.imageurl %}
 {% capture imageurl %}{{page.imageurl}}{% endcapture %}
 {% endif %}
 
 <ol class="container breadcrumb">
   <li><a href="/">Home</a></li>
-  <li><a href="people/">People</a></li>
+  <li><a href="/people">People</a></li>
   <li class="active">{{ page.name }}</li>
 </ol>
 
@@ -27,19 +28,19 @@ layout: default
       {% endif %}
     </header>
 
-    {% if page.lab %}
+    {% if page.lab and page.lab != "" and page.lab != None %}
     <div>
       Lab: {{ page.lab }}
     </div>
     {% endif %}
 
-    {% if page.office %}
+    {% if page.office and page.office != "" and page.office != None %}
     <div>
       Office: {{ page.office }}
     </div>
     {% endif %}
 
-    {% if page.phone %}
+    {% if page.phone and page.phone != "" and page.office != None %}
     <div>
       Phone: {{ page.phone }}
     </div>
@@ -48,7 +49,7 @@ layout: default
     {{ content }}
 
     <ul class="list-inline">
-      {% if page.email %}
+      {% if page.email and page.email != "" and page.email != None %}
       <li>
         <a href="mailto:{{ page.email }}">
           <i class="fa fa-envelope"></i> {{ page.email }}
@@ -56,25 +57,8 @@ layout: default
       </li>
       {% endif %}
 
-      {% if page.twitter %}
-      <li>
-        <a href="https://twitter.com/{{ page.twitter }}">
-          <i class="fa fa-twitter"></i>
-          <span class="username"> {{ page.twitter }}</span>
-        </a>
-      </li>
-      {% endif %}
 
-      {% if page.google_plus %}
-      <li>
-        <a href="https://plus.google.com/{{ page.google_plus }}/posts" <>
-          <i class="fa fa-google-plus"></i>
-          <span class="username">google plus</span>
-        </a>
-      </li>
-      {% endif %}
-
-      {% if site.google_scholar %}
+      {% if page.google_scholar and page.google_scholar != "" and page.google_scholar != None %}
       <li>
         <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}&hl=en">
           <i class="fa fa-graduation-cap"></i>

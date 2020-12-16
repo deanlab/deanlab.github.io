@@ -1,12 +1,12 @@
 ---
-name: "Shaowen Chen"
+name: "Avishai Benyamini"
 title: "Postdoc"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "te1twpuusvfxyzad9xgc"
+imageid: "iahaeznn9ykerpj0egez"
 email: ""
 phone: ""
-permalink: "/people/shaowen_chen"
+permalink: "/people/avishai_benyamini"
 ---

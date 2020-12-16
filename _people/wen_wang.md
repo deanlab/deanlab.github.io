@@ -1,12 +1,12 @@
 ---
-name: "Shaowen Chen"
+name: "Wen Wang"
 title: "Postdoc"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "te1twpuusvfxyzad9xgc"
+imageid: "ijhhvqywuo68vjbbabkp"
 email: ""
 phone: ""
-permalink: "/people/shaowen_chen"
+permalink: "/people/wen_wang"
 ---

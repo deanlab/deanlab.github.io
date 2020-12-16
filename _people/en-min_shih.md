@@ -1,12 +1,12 @@
 ---
-name: "Yutao Li"
+name: "En-Min Shih"
 title: "Ph.D. student"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "d9biwlvlponf4slxxyqz"
+imageid: "qvguqoz6vzdhpulnprxx"
 email: ""
 phone: ""
-permalink: "/people/yutao_li"
+permalink: "/people/en-min_shih"
 ---

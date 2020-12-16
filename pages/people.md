@@ -14,13 +14,11 @@ We have some great people working at the Dean Lab - meet some of them below.
 
 {% for person in site.people %}
 {% if person.imageid %}
-{% capture imageurl %}http://res.cloudinary.com/{{site.cloudinary_id}}/image/upload/{{person.imageid}}{% endcapture %}
+{% capture imageurl %}https://res.cloudinary.com/{{site.cloudinary_id}}/image/upload/b_rgb:4892d1,c_lpad,h_350,q_100,w_500/{{person.imageid}}{% endcapture %}
 {% elsif person.imageurl %}
 {% capture imageurl %}{{person.imageurl}}{% endcapture %}
 {% else %}{% capture imageurl %}http://res.cloudinary.com/codegaucho/image/upload/c_scale,w_256/v1381379684/ecibwsnz20ljfshmscy5{% endcapture %}
 {% endif %}
-
-<!-- {% cycle '', '', '', '</div><div class="row">' %} -->
 
   <div class="col-sm-4">
     <div class="card">

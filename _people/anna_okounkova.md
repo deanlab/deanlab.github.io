@@ -2,11 +2,11 @@
 name: "Anna Okounkova"
 title: "Undergrad."
 description: ""
-imageid:
-lab:
-office:
-phone:
-email: ao2504@columbia.edu
-google_scholar:
-permalink: people/anna_okounkova
+google_scholar: 
+office: ""
+lab: ""
+imageid: "fnjd7rj8pmbyjahnymnb"
+email: ""
+phone: ""
+permalink: "/people/anna_okounkova"
 ---

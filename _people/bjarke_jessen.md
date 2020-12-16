@@ -1,12 +1,12 @@
 ---
-name: "Shaowen Chen"
+name: "Bjarke Jessen"
 title: "Postdoc"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "te1twpuusvfxyzad9xgc"
+imageid: "jhr0grln3ljdq5d1foub"
 email: ""
 phone: ""
-permalink: "/people/shaowen_chen"
+permalink: "/people/bjarke_jessen"
 ---

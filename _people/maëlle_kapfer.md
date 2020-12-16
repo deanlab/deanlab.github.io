@@ -1,12 +1,12 @@
 ---
-name: "Shaowen Chen"
+name: "Maëlle Kapfer"
 title: "Postdoc"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "te1twpuusvfxyzad9xgc"
+imageid: "zklowz1mcxlblibhgf2j"
 email: ""
 phone: ""
-permalink: "/people/shaowen_chen"
+permalink: "/people/maëlle_kapfer"
 ---

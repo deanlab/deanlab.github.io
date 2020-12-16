@@ -1,12 +1,12 @@
 ---
 name: "Evan Telford"
-title: "Postdoc."
+title: "Postdoc"
 description: ""
-imageid:
-lab:
-office:
-phone:
-email: ejt2133@columbia.edu
-google_scholar:
-permalink: /people/evan_telford
+google_scholar: 
+office: ""
+lab: ""
+imageid: "rpcndnu2ayuvyro9ddng"
+email: ""
+phone: ""
+permalink: "/people/evan_telford"
 ---

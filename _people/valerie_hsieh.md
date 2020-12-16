@@ -1,12 +1,12 @@
 ---
-name: "Yutao Li"
+name: "Valerie Hsieh"
 title: "Ph.D. student"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "d9biwlvlponf4slxxyqz"
+imageid: "ruhr5oistv0gqukwffze"
 email: ""
 phone: ""
-permalink: "/people/yutao_li"
+permalink: "/people/valerie_hsieh"
 ---

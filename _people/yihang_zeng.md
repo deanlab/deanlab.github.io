@@ -1,12 +1,12 @@
 ---
-name: "Yutao Li"
+name: "Yihang Zeng"
 title: "Ph.D. student"
 description: ""
 google_scholar: 
 office: ""
 lab: ""
-imageid: "d9biwlvlponf4slxxyqz"
+imageid: "dhabquewg2kxtwqu9v2o"
 email: ""
 phone: ""
-permalink: "/people/yutao_li"
+permalink: "/people/yihang_zeng"
 ---
