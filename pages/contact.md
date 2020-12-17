@@ -8,7 +8,7 @@ permalink: /contact/
 
 Cory R Dean
 
-Asst. Professor
+Professor
 
 Department of Physics, Columbia University
 
